@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Transport Zone
+  - Props
+  - EndGameArea
+  - SafeZones
+  - DeathZone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Props
+  - Border
+  - Player
+  - Locked
+  - Platforms
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BGWall
+    uniqueID: 4092436595
+    locked: 0
+  - name: DG Decors
+    uniqueID: 2641782959
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1592433189
+    locked: 0
+  - name: Platforms
+    uniqueID: 773162411
+    locked: 0
+  - name: Props
+    uniqueID: 335857161
+    locked: 0
+  - name: Player
+    uniqueID: 2503645993
+    locked: 0
+  - name: Border
+    uniqueID: 2287788259
+    locked: 0
